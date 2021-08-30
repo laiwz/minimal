@@ -10,7 +10,6 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   </head>
    
   <body>
@@ -23,7 +22,8 @@
         </p>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo"
+               width="400" />
         {% endif %}
         
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
