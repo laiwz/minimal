@@ -4,3 +4,11 @@ description: " "
 show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  Home: "https://laiwz.github.io/"
+  CV: "/uploads/cv/CV.pdf"
+  Research: "research"
+  Resources: "resources"
