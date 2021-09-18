@@ -15,4 +15,4 @@ I’m a Ph.D. Candidate in economics at the [University of Maryland](https://www
 
 ## _Working Papers_
 1. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://sites.google.com/site/xichennj/), R&R, ***China Economic Review***
-   * [IZA Discussion Paper](https://www.baidu.com)
+   * [IZA Discussion Paper](https://econpapers.repec.org/paper/izaizadps/dp14710.htm)
