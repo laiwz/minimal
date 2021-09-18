@@ -6,6 +6,10 @@ title: Weizheng Lai
 logo: /assets/img/me.jpg
 description: " "
 show_downloads: false
-#google_analytics:
-theme: jekyll-theme-minimal
+
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
 
