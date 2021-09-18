@@ -9,6 +9,6 @@ theme: jekyll-theme-minimal
 
 navbar-links:
   Home: "https://laiwz.github.io/"
-  CV: "/uploads/cv/CV.pdf"
+  CV: "/assets/pdfs/CV.pdf"
   Research: "research"
   Resources: "resources"
